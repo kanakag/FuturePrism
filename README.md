@@ -8,4 +8,4 @@ STEM career planner for students who wish to go into Data Science or Data Analys
     - Word cloud of skills you should include according to Job preference
     - Best Job for the applicant, tailored on the basis of skills highlighted in resume.
     
-Achieved an accuracy of 62% using regression and prescriptive modeling in R.
+Introduction of the application from my team: https://youtu.be/qPWfSoz2Vqc
